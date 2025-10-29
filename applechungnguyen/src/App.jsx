@@ -1,0 +1,1 @@
+/* App component code placeholder; copy from textdoc in ChatGPT */
